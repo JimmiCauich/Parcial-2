@@ -1,0 +1,22 @@
+header{
+    background: url("img/background.jpg");
+    height: 659px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding-top: 10px;
+}
+ul li{
+        padding-top: 10px;
+    list-style: none;
+    margin-right: 26px;
+}
+ul li a{
+    text-decoration: none;
+    color: #ccc;
+    list-style: none;
+}
